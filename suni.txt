@@ -1,0 +1,5 @@
+file = open(r"F:\suresh\suresh1.py\_rep.py",'r')
+date =file.read()
+print(file)
+file.close()
+sushmasuniraj
